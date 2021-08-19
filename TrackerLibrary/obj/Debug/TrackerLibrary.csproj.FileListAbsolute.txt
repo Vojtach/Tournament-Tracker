@@ -2,3 +2,12 @@ C:\Users\PC\Desktop\Tournament-Tracker-master\TrackerLibrary\obj\Debug\TrackerLi
 C:\Users\PC\Desktop\Tournament-Tracker-master\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\1\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.AssemblyReference.cache
 C:\Users\PC\Desktop\1\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\Repos\CSharp\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.AssemblyReference.cache
+D:\Repos\CSharp\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+D:\Repos\CSharp\Tournament-Tracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+D:\Repos\CSharp\Tournament-Tracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+D:\Repos\CSharp\Tournament-Tracker\TrackerLibrary\bin\Debug\Dapper.dll
+D:\Repos\CSharp\Tournament-Tracker\TrackerLibrary\bin\Debug\Dapper.xml
+D:\Repos\CSharp\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
+D:\Repos\CSharp\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+D:\Repos\CSharp\Tournament-Tracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb

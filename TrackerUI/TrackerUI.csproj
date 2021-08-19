@@ -161,11 +161,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config">
-      <SubType>Designer</SubType>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\TrackerLibrary\TrackerLibrary.csproj">
       <Project>{28428213-c4af-4e73-a184-6da60b01ef12}</Project>
       <Name>TrackerLibrary</Name>
