@@ -1,3 +1,4 @@
+![app_banner](/Assets/hero_img.jpg)
 ## Aplikace je stále WIP. Díky za zájem.
 ## Tournament-Tracker
 Tournament-Tracker je aplikace využívající WinForms která má za účel spravovat fiktivní turnament, týmy v něm, ceny/ohodnocení a gratulační email (WIP).
