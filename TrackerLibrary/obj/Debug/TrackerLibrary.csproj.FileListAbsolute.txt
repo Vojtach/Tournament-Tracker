@@ -1,0 +1,4 @@
+C:\Users\PC\Desktop\Tournament-Tracker-master\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tournament-Tracker-master\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\1\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\1\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
