@@ -7,4 +7,4 @@ Tournament-Tracker je aplikace využívající WinForms která má za účel spr
 <!-- TODO: Demo gif/video/obrázky -->
 
 ## Zdroje
-Tato aplikace byla vytvořena dle tutoriálu: [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4). 
+Tato aplikace byla vytvořena s pomocí tutoriálu: [Create a C# Application from Start to Finish - Complete Course](https://www.youtube.com/watch?v=wfWxdh-_k_4). 
